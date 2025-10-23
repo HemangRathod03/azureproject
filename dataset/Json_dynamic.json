@@ -1,5 +1,5 @@
 {
-	"name": "Json",
+	"name": "Json_dynamic",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "datalake",
