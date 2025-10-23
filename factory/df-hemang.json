@@ -1,0 +1,9 @@
+{
+	"name": "df-hemang",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a27a57e1-823a-497d-bf75-7a37ae26ed44",
+		"tenantId": "d4aed4b8-7310-4526-bf31-b8dff8efb3b9"
+	}
+}
