@@ -47,6 +47,7 @@ Implemented dynamic pipelines using **Jinja templating**, **Git integration**, a
  ┣ 📂 dataset/              # Contains dataset definitions and metadata  
  ┣ 📂 factory/              # Azure Data Factory configuration files  
  ┣ 📂 linkedService/        # Linked service connections (e.g., Data Lake, Databricks)  
+ ┣ 📂 databricks/           # Databricks notebooks (.dbc) and cluster configurations  
  ┣ 📂 pipeline/             # Data pipeline definitions  
  ┣ 📜 publish_config.json   # Deployment and configuration details  
  ┗ 📜 README.md             # Project documentation
